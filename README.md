@@ -1,4 +1,4 @@
-Aplicativo em React Native para ligar e desligar a lanterna com o cachoalhar do celular (:
+Aplicativo em React Native para ligar e desligar a lanterna com o chacoalhar do celular (:
 
 
 
